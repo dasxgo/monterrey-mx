@@ -1,2 +1,7 @@
-# monterrey
-Análisis de datos de Monterrey 
+# EDA Monterrey
+Data analysis of Monterrey Mexico
+
+## Use
+
+- ETL
+- Machine learning 
