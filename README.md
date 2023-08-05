@@ -1,7 +1,7 @@
 # EDA Monterrey
 Data analysis of Monterrey Mexico
 
-## Use
+## Contents
 
 - ETL
 - Machine learning 
